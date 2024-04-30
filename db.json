@@ -13,35 +13,7 @@
                     "fontSize": 0,
                     "children": null
                 },
-                {
-                    "type": "COLUMN",
-                    "value": null,
-                    "padding": 8,
-                    "fontSize": 0,
-                    "children": [
-                        {
-                            "type": "TEXT",
-                            "value": "Enter User Name",
-                            "padding": 8,
-                            "fontSize": 14,
-                            "children": null
-                        },
-                        {
-                            "type": "TEXT_FIELD",
-                            "value": "",
-                            "padding": 8,
-                            "fontSize": 0,
-                            "children": null
-                        },
-                        {
-                            "type": "BUTTON",
-                            "value": "Submit",
-                            "padding": 8,
-                            "fontSize": 0,
-                            "children": null
-                        }
-                    ]
-                }
+                
             ]
         }
     ],
