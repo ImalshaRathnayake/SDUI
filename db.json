@@ -14,18 +14,26 @@
                     "children": null
                 },
                 {
-                    "type": "TEXT_FIELD",
-                    "value": "Lorem Ipsum",
+                    "type": "COLUMN",
+                    "value": null,
                     "padding": 8,
-                    "fontSize": 16,
-                    "children": null
-                },
-                {
-                    "type": "BUTTON",
-                    "value": "Submit",
-                    "padding": 8,
-                    "fontSize": 16,
-                    "children": null
+                    "fontSize": 0,
+                    "children": [
+                        {
+                            "type": "TEXT_FIELD",
+                            "value": "Lorem Ipsum",
+                            "padding": 8,
+                            "fontSize": 16,
+                            "children": null
+                        },
+                        {
+                            "type": "BUTTON",
+                            "value": "Submit",
+                            "padding": 8,
+                            "fontSize": 16,
+                            "children": null
+                        },
+                    ]
                 },
             ]
         }
