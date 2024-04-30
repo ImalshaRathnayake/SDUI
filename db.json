@@ -54,7 +54,7 @@
                                             "padding": 8,
                                             "fontSize": 16,
                                             "children": null,
-                                            "action":viewModel: {HomePageViewModel = hiltViewModel<HomePageViewModel>()}                                        },
+                                            "action":{viewModel: HomePageViewModel = hiltViewModel<HomePageViewModel>() }                                      },
                                         {
                                             "type": "TEXT",
                                             "value": "Name",
