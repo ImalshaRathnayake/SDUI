@@ -14,8 +14,8 @@
                     "children": null
                 },
                 {
-                    "type": "BUTTON",
-                    "value": "Submit",
+                    "type": "IMAGE",
+                    "value": "https://static.remove.bg/sample-gallery/graphics/bird-thumbnail.jpg",
                     "padding": 8,
                     "fontSize": 0,
                     "children": null
