@@ -7,12 +7,12 @@
             "fontSize": 0,
             "children": [
                 {
-                            "type": "TEXT",
-                            "value": "Lorem Ipsum",
-                            "padding": 8,
-                            "fontSize": 16,
-                            "children": null
-                        }
+                    "type": "TEXT",
+                    "value": "Lorem Ipsum",
+                    "padding": 8,
+                    "fontSize": 16,
+                    "children": null
+                }
             ]
         }
     ],
