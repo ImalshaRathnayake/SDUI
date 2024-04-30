@@ -50,7 +50,7 @@
                                     "children": [
                                         {
                                             "type": "TEXT_FIELD",
-                                            "value": "user name",
+                                            "value": "name",
                                             "padding": 8,
                                             "fontSize": 16,
                                             "children": null
