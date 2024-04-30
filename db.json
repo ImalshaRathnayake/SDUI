@@ -46,41 +46,41 @@
                     ]
                 },
                 {
-                            "type": "CARD",
-                            "value": null,
+                    "type": "CARD",
+                    "value": null,
+                    "padding": 8,
+                    "fontSize": 0,
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
                             "padding": 8,
-                            "fontSize": 0,
-                            "children": [
-                                {
-                                    "type": "TEXT",
-                                    "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                                    "padding": 8,
-                                    "fontSize": 12,
-                                    "children": null
-                                },
-                                {
-                                    "type": "TEXT",
-                                    "value": "* Donec vestibulum ex ut ex tristique scelerisque",
-                                    "padding": 8,
-                                    "fontSize": 12,
-                                    "children": null
-                                },
-                                {
-                                    "type": "TEXT",
-                                    "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                                    "padding": 8,
-                                    "fontSize": 12,
-                                    "children": null
-                                },
-                                {
-                                    "type": "TEXT",
-                                    "value": "* Donec vestibulum ex ut ex tristique scelerisque",
-                                    "padding": 8,
-                                    "fontSize": 12,
-                                    "children": null
-                                }
-                            ]
+                            "fontSize": 12,
+                            "children": null
+                        },
+                        {
+                            "type": "TEXT",
+                            "value": "* Donec vestibulum ex ut ex tristique scelerisque",
+                            "padding": 8,
+                            "fontSize": 12,
+                            "children": null
+                        },
+                        {
+                            "type": "TEXT",
+                            "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                            "padding": 8,
+                            "fontSize": 12,
+                            "children": null
+                        },
+                        {
+                            "type": "TEXT",
+                            "value": "* Donec vestibulum ex ut ex tristique scelerisque",
+                            "padding": 8,
+                            "fontSize": 12,
+                            "children": null
                         }
+                    ]
+                }
             ]
         }
     ]
