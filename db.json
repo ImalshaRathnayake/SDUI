@@ -1,7 +1,7 @@
 {
     "topAppBar": [
         {
-            "type": "ROW",
+            "type": "COLUMN",
             "value": null,
             "padding": 8,
             "fontSize": 0,
