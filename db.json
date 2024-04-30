@@ -5,12 +5,14 @@
             "value": null,
             "padding": 8,
             "fontSize": 0,
+            "action":{},
             "children": [
                 {
                     "type": "TEXT",
                     "value": "Lorem Ipsum",
                     "padding": 8,
                     "fontSize": 16,
+                    "action":{},
                     "children": null
                 }
             ]
