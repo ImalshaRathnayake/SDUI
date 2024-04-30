@@ -1,6 +1,5 @@
 {
-  "topAppBar" = 
-    {
+  "topAppBar" = {
       "type":"ROW",
       "value":"null",
       "padding":"8",
@@ -15,5 +14,4 @@
         }
       ]
     }
-  
 }
