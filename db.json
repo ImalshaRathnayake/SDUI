@@ -1,7 +1,7 @@
 {
     "topAppBar": [
         {
-            "type": "COLUMN",
+            "type": "ROW",
             "value": null,
             "padding": 8,
             "fontSize": 0,
@@ -14,12 +14,19 @@
                     "children": null
                 },
                 {
-                    "type": "IMAGE",
-                    "value": "https://static.remove.bg/sample-gallery/graphics/bird-thumbnail.jpg",
+                    "type": "TEXT_FIELD",
+                    "value": "Lorem Ipsum",
                     "padding": 8,
-                    "fontSize": 0,
+                    "fontSize": 16,
                     "children": null
-                }
+                },
+                {
+                    "type": "BUTTON",
+                    "value": "Submit",
+                    "padding": 8,
+                    "fontSize": 16,
+                    "children": null
+                },
             ]
         }
     ],
