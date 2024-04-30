@@ -30,18 +30,41 @@
                     "fontSize": 0,
                     "children": [
                         {
-                            "type": "BUTTON",
-                            "value": "Lorem Ipsum",
+                            "type": "ROW",
+                            "value": null,
                             "padding": 8,
-                            "fontSize": 16,
-                            "children": null
-                        },
-                        {
-                            "type": "TEXT",
-                            "value": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-                            "padding": 8,
-                            "fontSize": 16,
-                            "children": null
+                            "fontSize": 0,
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "value": "Lorem Ipsum",
+                                    "padding": 8,
+                                    "fontSize": 16,
+                                    "children": null
+                                },
+                                {
+                                    "type": "COLUMN",
+                                    "value": "Lorem Ipsum",
+                                    "padding": 8,
+                                    "fontSize": 16,
+                                    "children": [
+                                        {
+                                            "type": "TEXT_FIELD",
+                                            "value": "user name",
+                                            "padding": 8,
+                                            "fontSize": 16,
+                                            "children": null
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "value": "Submit",
+                                            "padding": 8,
+                                            "fontSize": 16,
+                                            "children": null
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
