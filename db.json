@@ -2,7 +2,7 @@
     "topAppBar": [
         {
             "type": "ROW",
-            "value": "null",
+            "value": null,
             "padding": 8,
             "fontSize": 0,
             "children": [
@@ -11,11 +11,11 @@
                     "value": "https://static.remove.bg/sample-gallery/graphics/bird-thumbnail.jpg",
                     "padding": 8,
                     "fontSize": 0,
-                    "children": "null"
+                    "children": null
                 },
                 {
                     "type": "COLUMN",
-                    "value": "null",
+                    "value": null,
                     "padding": 8,
                     "fontSize": 0,
                     "children": [
@@ -24,21 +24,21 @@
                             "value": "Enter User Name",
                             "padding": 8,
                             "fontSize": 14,
-                            "children": "null"
+                            "children": null
                         },
                         {
                             "type": "TEXT_FIELD",
                             "value": "",
                             "padding": 8,
                             "fontSize": 0,
-                            "children": "null"
+                            "children": null
                         },
                         {
                             "type": "BUTTON",
                             "value": "Submit",
                             "padding": 8,
                             "fontSize": 0,
-                            "children": "null"
+                            "children": null
                         }
                     ]
                 }
@@ -48,13 +48,13 @@
     "children": [
         {
             "type": "COLUMN",
-            "value": "null",
+            "value": null,
             "padding": 8,
             "fontSize": 0,
             "children": [
                 {
                     "type": "CARD",
-                    "value": "null",
+                    "value": null,
                     "padding": 8,
                     "fontSize": 0,
                     "children": [
@@ -63,18 +63,18 @@
                             "value": "Lorem Ipsum",
                             "padding": 8,
                             "fontSize": 16,
-                            "children": "null"
+                            "children": null
                         },
                         {
                             "type": "TEXT",
                             "value": "Lorem Ipsum",
                             "padding": 8,
                             "fontSize": 16,
-                            "children": "null"
+                            "children": null
                         },
                         {
                             "type": "CARD",
-                            "value": "null",
+                            "value": null,
                             "padding": 8,
                             "fontSize": 0,
                             "children": [
@@ -83,28 +83,28 @@
                                     "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
                                     "padding": 8,
                                     "fontSize": 12,
-                                    "children": "null"
+                                    "children": null
                                 },
                                 {
                                     "type": "TEXT",
                                     "value": "* Donec vestibulum ex ut ex tristique scelerisque",
                                     "padding": 8,
                                     "fontSize": 12,
-                                    "children": "null"
+                                    "children": null
                                 },
                                 {
                                     "type": "TEXT",
                                     "value": "* Lorem ipsum dolor sit amet, consectetur adipiscing elit",
                                     "padding": 8,
                                     "fontSize": 12,
-                                    "children": "null"
+                                    "children": null
                                 },
                                 {
                                     "type": "TEXT",
                                     "value": "* Donec vestibulum ex ut ex tristique scelerisque",
                                     "padding": 8,
                                     "fontSize": 12,
-                                    "children": "null"
+                                    "children": null
                                 }
                             ]
                         }
