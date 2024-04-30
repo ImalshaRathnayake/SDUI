@@ -36,8 +36,8 @@
                             "fontSize": 0,
                             "children": [
                                 {
-                                    "type": "TEXT",
-                                    "value": "Lorem Ipsum",
+                                    "type": "IMAGE",
+                                    "value": "https://th.bing.com/th/id/OIP.Pf2p3qw7OLntwU0Ld4tWewHaFj?rs=1&pid=ImgDetMain",
                                     "padding": 8,
                                     "fontSize": 16,
                                     "children": null
