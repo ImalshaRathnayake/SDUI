@@ -49,8 +49,22 @@
                                     "fontSize": 16,
                                     "children": [
                                         {
+                                            "type": "BUTTON",
+                                            "value": "",
+                                            "padding": 8,
+                                            "fontSize": 16,
+                                            "children": null
+                                        },
+                                        {
+                                            "type": "TEXT",
+                                            "value": "Name",
+                                            "padding": 8,
+                                            "fontSize": 16,
+                                            "children": null
+                                        },
+                                        {
                                             "type": "TEXT_FIELD",
-                                            "value": "name",
+                                            "value": "",
                                             "padding": 8,
                                             "fontSize": 16,
                                             "children": null
